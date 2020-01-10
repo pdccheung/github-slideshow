@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Money makes the world go around!
 Use the left arrow to go back!
